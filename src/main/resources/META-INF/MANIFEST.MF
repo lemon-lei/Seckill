@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: spring-core-4.1.6.RELEASE.jar logback-classic-1.1.1.jar sp
+ ring-test-4.1.6.RELEASE.jar spring-tx-4.1.6.RELEASE.jar jackson-core-
+ 2.5.0.jar spring-jdbc-4.1.6.RELEASE.jar aopalliance-1.0.jar standard-
+ 1.1.2.jar spring-expression-4.1.6.RELEASE.jar mysql-connector-java-5.
+ 1.39.jar spring-aop-4.1.6.RELEASE.jar javax.servlet-api-3.1.0.jar jac
+ kson-databind-2.5.0.jar mybatis-3.4.5.jar mybatis-spring-1.3.1.jar sp
+ ring-web-4.1.6.RELEASE.jar jstl-1.2.jar slf4j-api-1.7.21.jar spring-c
+ ontext-4.1.6.RELEASE.jar spring-beans-4.1.6.RELEASE.jar c3p0-0.9.1.2.
+ jar spring-webmvc-4.1.6.RELEASE.jar jackson-annotations-2.5.0.jar com
+ mons-logging-1.2.jar logback-core-1.1.1.jar
+Main-Class: Main.Main
+
